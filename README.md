@@ -2,7 +2,9 @@
 
 <center>
 <h2>Imagens do site</h2>
- 
+ </center>
+
+<center>
 <img src="img.png">
 <br>
 <img src="img_2.png">
