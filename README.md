@@ -1,7 +1,7 @@
 ## Página feita com jQuery e AJAX sem reflesh de página
 
 <center>
-<h2>Imagens do site</h2>
+<h2>Imagens</h2>
  </center>
 
 <center>
